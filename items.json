@@ -1,0 +1,2855 @@
+[
+ {
+   "ID": 1,
+   "NAME": "DISPLAY WALL",
+   "TYPE": "WALL",
+   "PARENT ID": null,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 2,
+   "NAME": "GENETEC MATRIX",
+   "TYPE": "MATRIX",
+   "PARENT ID": 1,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 3,
+   "NAME": "ENCODER 1",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 4,
+   "NAME": "CONVERTER 1",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 3,
+   "STATUS": "WARNING",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 5,
+   "NAME": "CONVERTER 2",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 3,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 6,
+   "NAME": "CAMERA 1",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 5,
+   "STATUS": "MALFUNCTION",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 7,
+   "NAME": "ENCODER 2",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 8,
+   "NAME": "CONVERTER 3",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 7,
+   "STATUS": "OK",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 9,
+   "NAME": "CONVERTER 4",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 7,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 10,
+   "NAME": "CAMERA 2",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 9,
+   "STATUS": "FROZEN",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 11,
+   "NAME": "ENCODER 3",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 12,
+   "NAME": "CONVERTER 5",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 11,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 13,
+   "NAME": "CONVERTER 6",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 11,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 14,
+   "NAME": "CAMERA 3",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 13,
+   "STATUS": "MAINTENANCE",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 15,
+   "NAME": "ENCODER 4",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 16,
+   "NAME": "CONVERTER 7",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 15,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 17,
+   "NAME": "CONVERTER 8",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 15,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 18,
+   "NAME": "CAMERA 4",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 17,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 19,
+   "NAME": "ENCODER 5",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 20,
+   "NAME": "CONVERTER 9",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 19,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 21,
+   "NAME": "CONVERTER 10",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 19,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 22,
+   "NAME": "CAMERA 5",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 21,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 23,
+   "NAME": "ENCODER 6",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 24,
+   "NAME": "CONVERTER 11",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 23,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 25,
+   "NAME": "CONVERTER 12",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 23,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 26,
+   "NAME": "CAMERA 6",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 25,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 27,
+   "NAME": "ENCODER 7",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 28,
+   "NAME": "CONVERTER 13",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 27,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 29,
+   "NAME": "CONVERTER 14",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 27,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 30,
+   "NAME": "CAMERA 7",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 29,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 31,
+   "NAME": "ENCODER 8",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 32,
+   "NAME": "CONVERTER 15",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 31,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 33,
+   "NAME": "CONVERTER 16",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 31,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 34,
+   "NAME": "CAMERA 8",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 33,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 35,
+   "NAME": "ENCODER 9",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 36,
+   "NAME": "CONVERTER 17",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 35,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 37,
+   "NAME": "CONVERTER 18",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 35,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 38,
+   "NAME": "CAMERA 9",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 37,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 39,
+   "NAME": "ENCODER 10",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 40,
+   "NAME": "CONVERTER 19",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 39,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 41,
+   "NAME": "CONVERTER 20",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 39,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 42,
+   "NAME": "CAMERA 10",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 41,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 43,
+   "NAME": "ENCODER 11",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 44,
+   "NAME": "CONVERTER 20",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 43,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 45,
+   "NAME": "CONVERTER 21",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 43,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 46,
+   "NAME": "CAMERA 11",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 45,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 47,
+   "NAME": "ENCODER 12",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 48,
+   "NAME": "CONVERTER 22",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 47,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 49,
+   "NAME": "CONVERTER 23",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 47,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 50,
+   "NAME": "CAMERA 12",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 49,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 51,
+   "NAME": "ENCODER 13",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 52,
+   "NAME": "CONVERTER 24",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 51,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 53,
+   "NAME": "CONVERTER 25",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 51,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 54,
+   "NAME": "CAMERA 13",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 53,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 55,
+   "NAME": "ENCODER 14",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 56,
+   "NAME": "CONVERTER 26",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 55,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 57,
+   "NAME": "CONVERTER 27",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 55,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 58,
+   "NAME": "CAMERA 14",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 57,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 59,
+   "NAME": "ENCODER 15",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 60,
+   "NAME": "CONVERTER 28",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 59,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 61,
+   "NAME": "CONVERTER 29",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 59,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 62,
+   "NAME": "CAMERA 15",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 61,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 63,
+   "NAME": "ENCODER 16",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 64,
+   "NAME": "CONVERTER 30",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 63,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 65,
+   "NAME": "CONVERTER 31",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 63,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 66,
+   "NAME": "CAMERA 16",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 65,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 67,
+   "NAME": "ENCODER 17",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 68,
+   "NAME": "CONVERTER 32",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 67,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 69,
+   "NAME": "CONVERTER 33",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 67,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 70,
+   "NAME": "CAMERA 17",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 69,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 71,
+   "NAME": "ENCODER 18",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 72,
+   "NAME": "CONVERTER 34",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 71,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 73,
+   "NAME": "CONVERTER 35",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 71,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 74,
+   "NAME": "CAMERA 18",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 73,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 75,
+   "NAME": "ENCODER 19",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 76,
+   "NAME": "CONVERTER 36",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 75,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 77,
+   "NAME": "CONVERTER 37",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 75,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 78,
+   "NAME": "CAMERA 19",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 77,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 79,
+   "NAME": "ENCODER 20",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 80,
+   "NAME": "CONVERTER 38",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 79,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 81,
+   "NAME": "CONVERTER 39",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 79,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 82,
+   "NAME": "CAMERA 20",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 81,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 83,
+   "NAME": "ENCODER 21",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 84,
+   "NAME": "CONVERTER 40",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 83,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 85,
+   "NAME": "CONVERTER 41",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 83,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 86,
+   "NAME": "CAMERA 21",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 85,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 87,
+   "NAME": "ENCODER 22",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 88,
+   "NAME": "CONVERTER 42",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 87,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 89,
+   "NAME": "CONVERTER 43",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 87,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 90,
+   "NAME": "CAMERA 22",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 89,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 91,
+   "NAME": "ENCODER 23",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 92,
+   "NAME": "CONVERTER 44",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 91,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 93,
+   "NAME": "CONVERTER 45",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 91,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 94,
+   "NAME": "CAMERA 23",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 93,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 95,
+   "NAME": "ENCODER 24",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 96,
+   "NAME": "CONVERTER 46",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 95,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 97,
+   "NAME": "CONVERTER 47",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 95,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 98,
+   "NAME": "CAMERA 24",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 97,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 99,
+   "NAME": "ENCODER 25",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 100,
+   "NAME": "CONVERTER 48",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 99,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 101,
+   "NAME": "CONVERTER 49",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 99,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 102,
+   "NAME": "CAMERA 25",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 101,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 103,
+   "NAME": "ENCODER 26",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 104,
+   "NAME": "CONVERTER 50",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 103,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 105,
+   "NAME": "CONVERTER 51",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 103,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 106,
+   "NAME": "CAMERA 26",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 105,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 107,
+   "NAME": "ENCODER 27",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 108,
+   "NAME": "CONVERTER 52",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 107,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 109,
+   "NAME": "CONVERTER 53",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 107,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 110,
+   "NAME": "CAMERA 27",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 109,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 111,
+   "NAME": "ENCODER 28",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 112,
+   "NAME": "CONVERTER 54",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 111,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 113,
+   "NAME": "CONVERTER 55",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 111,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 114,
+   "NAME": "CAMERA 28",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 113,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 115,
+   "NAME": "ENCODER 29",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 116,
+   "NAME": "CONVERTER 56",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 115,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 117,
+   "NAME": "CONVERTER 57",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 115,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 118,
+   "NAME": "CAMERA 19",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 117,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 119,
+   "NAME": "ENCODER 30",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 120,
+   "NAME": "CONVERTER 58",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 119,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 121,
+   "NAME": "CONVERTER 59",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 119,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 122,
+   "NAME": "CAMERA 30",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 121,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 123,
+   "NAME": "ENCODER 31",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 124,
+   "NAME": "CONVERTER 60",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 123,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 125,
+   "NAME": "CONVERTER 61",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 123,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 126,
+   "NAME": "CAMERA 31",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 125,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 127,
+   "NAME": "ENCODER 32",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 128,
+   "NAME": "CONVERTER 62 ",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 127,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 129,
+   "NAME": "CONVERTER 63",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 127,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 130,
+   "NAME": "CAMERA 32",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 129,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 131,
+   "NAME": "ENCODER 33",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 132,
+   "NAME": "CONVERTER 64",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 131,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 133,
+   "NAME": "CONVERTER 65",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 131,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 134,
+   "NAME": "CAMERA 33",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 133,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 135,
+   "NAME": "ENCODER 34",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 136,
+   "NAME": "CONVERTER 66",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 135,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 137,
+   "NAME": "CONVERTER 67",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 135,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 138,
+   "NAME": "CAMERA 34",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 137,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 139,
+   "NAME": "ENCODER 35",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 140,
+   "NAME": "CONVERTER 68",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 139,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 141,
+   "NAME": "CONVERTER 69",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 139,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 142,
+   "NAME": "CAMERA 35",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 141,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 143,
+   "NAME": "ENCODER 36",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 144,
+   "NAME": "CONVERTER 70",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 143,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 145,
+   "NAME": "CONVERTER 71",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 143,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 146,
+   "NAME": "CAMERA 36",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 145,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 147,
+   "NAME": "ENCODER 37",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 148,
+   "NAME": "CONVERTER 72",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 147,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 149,
+   "NAME": "CONVERTER 73",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 147,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 150,
+   "NAME": "CAMERA 37",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 149,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 151,
+   "NAME": "ENCODER 38",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 152,
+   "NAME": "CONVERTER 74",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 151,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 153,
+   "NAME": "CONVERTER 75",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 151,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 154,
+   "NAME": "CAMERA 38",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 153,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 155,
+   "NAME": "ENCODER 39",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 156,
+   "NAME": "CONVERTER 76",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 155,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 157,
+   "NAME": "CONVERTER 77",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 155,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 158,
+   "NAME": "CAMERA 39",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 157,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 159,
+   "NAME": "ENCODER 40",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 160,
+   "NAME": "CONVERTER 78",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 159,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 161,
+   "NAME": "CONVERTER 79",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 159,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 162,
+   "NAME": "CAMERA 40",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 161,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 163,
+   "NAME": "ENCODER 41",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 164,
+   "NAME": "CONVERTER 80",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 163,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 165,
+   "NAME": "CONVERTER 81",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 163,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 166,
+   "NAME": "CAMERA 41",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 165,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 167,
+   "NAME": "ENCODER 42",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 168,
+   "NAME": "CONVERTER 82",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 167,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 169,
+   "NAME": "CONVERTER 83",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 167,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 170,
+   "NAME": "CAMERA 42",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 169,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 171,
+   "NAME": "ENCODER 43",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 172,
+   "NAME": "CONVERTER 84",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 171,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 173,
+   "NAME": "CONVERTER 85",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 171,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 174,
+   "NAME": "CAMERA 43",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 173,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 175,
+   "NAME": "ENCODER 44",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 176,
+   "NAME": "CONVERTER 86",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 175,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 177,
+   "NAME": "CONVERTER 87",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 175,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 178,
+   "NAME": "CAMERA 44",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 177,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 179,
+   "NAME": "ENCODER 45",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 180,
+   "NAME": "CONVERTER 88",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 179,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 181,
+   "NAME": "CONVERTER 89",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 179,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 182,
+   "NAME": "CAMERA 45",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 181,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 183,
+   "NAME": "ENCODER 46",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 184,
+   "NAME": "CONVERTER 90",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 183,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 185,
+   "NAME": "CONVERTER 91",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 183,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 186,
+   "NAME": "CAMERA 46",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 185,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 187,
+   "NAME": "ENCODER 47",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 188,
+   "NAME": "CONVERTER 92",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 187,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 189,
+   "NAME": "CONVERTER 93",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 187,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 190,
+   "NAME": "CAMERA 47",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 189,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 191,
+   "NAME": "ENCODER 48",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 192,
+   "NAME": "CONVERTER 94",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 191,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 193,
+   "NAME": "CONVERTER 95",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 191,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 194,
+   "NAME": "CAMERA 48",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 193,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 195,
+   "NAME": "ENCODER 49",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 196,
+   "NAME": "CONVERTER 96",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 195,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 197,
+   "NAME": "CONVERTER 97",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 195,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 198,
+   "NAME": "CAMERA 49",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 197,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 199,
+   "NAME": "ENCODER 50",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 200,
+   "NAME": "CONVERTER 98",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 199,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 201,
+   "NAME": "CONVERTER 99",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 199,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 202,
+   "NAME": "CAMERA 50",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 201,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 203,
+   "NAME": "ENCODER 51",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 204,
+   "NAME": "CONVERTER 100",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 203,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 205,
+   "NAME": "CONVERTER 101",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 203,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 206,
+   "NAME": "CAMERA 51",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 205,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixe Camera"
+ },
+ {
+   "ID": 207,
+   "NAME": "ENCODER 55",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 208,
+   "NAME": "CONVERTER 102",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 207,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 209,
+   "NAME": "CONVERTER 103",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 207,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 210,
+   "NAME": "CAMERA 52",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 209,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 211,
+   "NAME": "ENCODER 53",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 212,
+   "NAME": "CONVERTER 104",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 211,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 213,
+   "NAME": "CONVERTER 105",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 211,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 214,
+   "NAME": "CAMERA 53",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 213,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 215,
+   "NAME": "ENCODER 54",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 216,
+   "NAME": "CONVERTER 106",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 215,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 217,
+   "NAME": "CONVERTER 107",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 215,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 218,
+   "NAME": "CAMERA 54",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 217,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 219,
+   "NAME": "ENCODER 55",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 220,
+   "NAME": "CONVERTER 108",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 219,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 221,
+   "NAME": "CONVERTER 109",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 219,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 222,
+   "NAME": "CAMERA 55",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 221,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 223,
+   "NAME": "ENCODER 56",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 224,
+   "NAME": "CONVERTER 110",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 223,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 225,
+   "NAME": "CONVERTER 111",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 223,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 226,
+   "NAME": "CAMERA 56",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 225,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 227,
+   "NAME": "ENCODER 57",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 228,
+   "NAME": "CONVERTER 112",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 227,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 229,
+   "NAME": "CONVERTER 113",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 227,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 230,
+   "NAME": "CAMERA 57",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 229,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 231,
+   "NAME": "ENCODER 58",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 232,
+   "NAME": "CONVERTER 114",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 231,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 233,
+   "NAME": "CONVERTER 115",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 231,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 234,
+   "NAME": "CAMERA 58",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 233,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 235,
+   "NAME": "ENCODER 59",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 236,
+   "NAME": "CONVERTER 116",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 235,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 237,
+   "NAME": "CONVERTER 117",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 235,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 238,
+   "NAME": "CAMERA 59",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 237,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 239,
+   "NAME": "ENCODER 60",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 240,
+   "NAME": "CONVERTER 118",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 239,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/COAX Converter"
+ },
+ {
+   "ID": 241,
+   "NAME": "CONVERTER 119",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 239,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "COAX/FO Converter"
+ },
+ {
+   "ID": 242,
+   "NAME": "CAMERA 60",
+   "TYPE": "ANALOG CAMERA",
+   "PARENT ID": 241,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 243,
+   "NAME": "ENCODER 61",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 244,
+   "NAME": "CONVERTER 120",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 243,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 245,
+   "NAME": "CONVERTER 121",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 243,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 246,
+   "NAME": "SWITCH 1",
+   "TYPE": "SWITCH",
+   "PARENT ID": 245,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 247,
+   "NAME": "CAMERA 61",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 246,
+   "STATUS": "",
+   "IP address": "192.168.1.201",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 248,
+   "NAME": "ENCODER 62",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 249,
+   "NAME": "CONVERTER 122",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 248,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 250,
+   "NAME": "CONVERTER 123",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 248,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 251,
+   "NAME": "SWITCH 2",
+   "TYPE": "SWITCH",
+   "PARENT ID": 250,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 252,
+   "NAME": "CAMERA 62",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 251,
+   "STATUS": "",
+   "IP address": "192.168.1.202",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 253,
+   "NAME": "ENCODER 63",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 254,
+   "NAME": "CONVERTER 124",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 253,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 255,
+   "NAME": "CONVERTER 125",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 253,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 256,
+   "NAME": "SWITCH 3",
+   "TYPE": "SWITCH",
+   "PARENT ID": 255,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 257,
+   "NAME": "CAMERA 63",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 256,
+   "STATUS": "",
+   "IP address": "192.168.1.203",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 258,
+   "NAME": "ENCODER 64",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 259,
+   "NAME": "CONVERTER 126",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 258,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 260,
+   "NAME": "CONVERTER 127",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 258,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 261,
+   "NAME": "SWITCH 4",
+   "TYPE": "SWITCH",
+   "PARENT ID": 260,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 262,
+   "NAME": "CAMERA 64",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 261,
+   "STATUS": "",
+   "IP address": "192.168.1.204",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 263,
+   "NAME": "ENCODER 65",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 264,
+   "NAME": "CONVERTER 128",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 263,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 265,
+   "NAME": "CONVERTER 129",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 263,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 266,
+   "NAME": "SWITCH 5",
+   "TYPE": "SWITCH",
+   "PARENT ID": 265,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 267,
+   "NAME": "CAMERA 65",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 266,
+   "STATUS": "",
+   "IP address": "192.168.1.205",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 268,
+   "NAME": "ENCODER 66",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 269,
+   "NAME": "CONVERTER 130",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 268,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 270,
+   "NAME": "CONVERTER 131",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 268,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 271,
+   "NAME": "SWITCH 6",
+   "TYPE": "SWITCH",
+   "PARENT ID": 270,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 272,
+   "NAME": "CAMERA 66",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 271,
+   "STATUS": "",
+   "IP address": "192.168.1.206",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 273,
+   "NAME": "ENCODER 67",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 274,
+   "NAME": "CONVERTER 132",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 273,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 275,
+   "NAME": "CONVERTER 133",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 273,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 276,
+   "NAME": "SWITCH 7",
+   "TYPE": "SWITCH",
+   "PARENT ID": 275,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 277,
+   "NAME": "CAMERA 67",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 276,
+   "STATUS": "",
+   "IP address": "192.168.1.207",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 278,
+   "NAME": "ENCODER 68",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 279,
+   "NAME": "CONVERTER 134",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 278,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 280,
+   "NAME": "CONVERTER 135",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 278,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 281,
+   "NAME": "SWITCH 8",
+   "TYPE": "SWITCH",
+   "PARENT ID": 280,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 282,
+   "NAME": "CAMERA 68",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 281,
+   "STATUS": "",
+   "IP address": "192.168.1.208",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 283,
+   "NAME": "ENCODER 69",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 284,
+   "NAME": "CONVERTER 136",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 283,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 285,
+   "NAME": "CONVERTER 137",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 283,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 286,
+   "NAME": "SWITCH 9",
+   "TYPE": "SWITCH",
+   "PARENT ID": 285,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 287,
+   "NAME": "CAMERA 69",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 286,
+   "STATUS": "",
+   "IP address": "192.168.1.209",
+   "COMMENT": "Dome camera"
+ },
+ {
+   "ID": 288,
+   "NAME": "ENCODER 70",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 289,
+   "NAME": "CONVERTER 138",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 288,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 290,
+   "NAME": "CONVERTER 139",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 288,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 291,
+   "NAME": "SWITCH 10",
+   "TYPE": "SWITCH",
+   "PARENT ID": 290,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 292,
+   "NAME": "CAMERA 70",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 291,
+   "STATUS": "",
+   "IP address": "192.168.1.210",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 293,
+   "NAME": "ENCODER 71",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 294,
+   "NAME": "CONVERTER 140",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 293,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 295,
+   "NAME": "CONVERTER 141",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 293,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 296,
+   "NAME": "SWITCH 11",
+   "TYPE": "SWITCH",
+   "PARENT ID": 295,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 297,
+   "NAME": "CAMERA 71",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 296,
+   "STATUS": "",
+   "IP address": "192.168.1.211",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 298,
+   "NAME": "ENCODER 72",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 299,
+   "NAME": "CONVERTER 141",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 298,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 300,
+   "NAME": "CONVERTER 142",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 298,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 301,
+   "NAME": "SWITCH 12",
+   "TYPE": "SWITCH",
+   "PARENT ID": 300,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 302,
+   "NAME": "CAMERA 72",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 301,
+   "STATUS": "",
+   "IP address": "192.168.1.212",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 303,
+   "NAME": "ENCODER 73",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 304,
+   "NAME": "CONVERTER 143",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 303,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter "
+ },
+ {
+   "ID": 305,
+   "NAME": "CONVERTER 144",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 303,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 306,
+   "NAME": "SWITCH 13",
+   "TYPE": "SWITCH",
+   "PARENT ID": 305,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 307,
+   "NAME": "CAMERA 73",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 306,
+   "STATUS": "",
+   "IP address": "192.168.1.213",
+   "COMMENT": "Dome Camera"
+ },
+ {
+   "ID": 308,
+   "NAME": "ENCODER 74",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 309,
+   "NAME": "CONVERTER 145",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 308,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 310,
+   "NAME": "CONVERTER 146",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 308,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 311,
+   "NAME": "SWITCH 14",
+   "TYPE": "SWITCH",
+   "PARENT ID": 310,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 312,
+   "NAME": "CAMERA 74",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 311,
+   "STATUS": "",
+   "IP address": "192.168.1.214",
+   "COMMENT": "Fixed Camera"
+ },
+ {
+   "ID": 313,
+   "NAME": "ENCODER 75",
+   "TYPE": "ENCODER",
+   "PARENT ID": 2,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 314,
+   "NAME": "CONVERTER 147",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 313,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "FO/IP Converter"
+ },
+ {
+   "ID": 315,
+   "NAME": "CONVERTER 148",
+   "TYPE": "CONVERTER",
+   "PARENT ID": 313,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": "IP/FO Converter"
+ },
+ {
+   "ID": 316,
+   "NAME": "SWITCH 15",
+   "TYPE": "SWITCH",
+   "PARENT ID": 315,
+   "STATUS": "",
+   "IP address": "",
+   "COMMENT": ""
+ },
+ {
+   "ID": 317,
+   "NAME": "CAMERA 75",
+   "TYPE": "IP CAMERA",
+   "PARENT ID": 316,
+   "STATUS": "",
+   "IP address": "192.168.1.215",
+   "COMMENT": "Thermal infra-red Camera"
+ }
+]
